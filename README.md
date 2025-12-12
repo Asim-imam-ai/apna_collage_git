@@ -1,5 +1,3 @@
 # apna_collage_git
 This is my first git repository
-
-
 Author - Asim Imam
